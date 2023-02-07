@@ -1,0 +1,640 @@
+{
+  "questions": [
+    {
+      "prompt": "Do you enjoy participating in friendly debates?",
+      "answers": [
+        "Yes, very much",
+        "Sometimes",
+        "Rarely or never"
+      ],
+      "type": "ranked"
+    },
+    {
+      "prompt": "Do you tend to accept the challenge of a dare from your friends?",
+      "answers": [
+        "Always",
+        "Sometimes",
+        "No"
+      ],
+      "type": "ranked"
+    },
+    {
+      "prompt": "Do you sometimes cry or choke up while watching a sad movie?",
+      "answers": [
+        "Yes, you often cry during sad movies",
+        "Sometimes",
+        "No, you rarely cry during movies"
+      ],
+      "type": "ranked"
+    },
+    {
+      "prompt": "Is it important to you that you are liked by everyone?",
+      "answers": [
+        "Yes, it is very important",
+        "Yes, it is somewhat important",
+        "No, it is not important"
+      ],
+      "type": "ranked"
+    },
+    {
+      "prompt": "If you felt someone had wronged you, you would:",
+      "answers": [
+        "Yell at the other person",
+        "Quietly discuss the incident with the other person",
+        "Worry about it and keep it to yourself",
+        "Tell your friends about the incident, but likely not confront the person"
+      ],
+      "type": "distinct"
+    },
+    {
+      "prompt": "On one of those days when everything goes wrong, you most often:",
+      "answers": [
+        "Complain to others about your bad day",
+        "Blame others for your bad day",
+        "Blame yourself for your bad day"
+      ],
+      "type": "distinct"
+    },
+    {
+      "prompt": "Are you very competitive?",
+      "answers": [
+        "Yes, very competitive",
+        "Yes, sometimes competitive",
+        "No, rarely competitive"
+      ],
+      "type": "ranked"
+    },
+    {
+      "prompt": "When you make an error, do you regularly openly admit it?",
+      "answers": [
+        "Yes",
+        "Sometimes",
+        "No"
+      ],
+      "type": "ranked"
+    },
+    {
+      "prompt": "You had arranged an outing, but your best friend called it off:",
+      "answers": [
+        "You can surely find something else to do",
+        "You will try to do the same thing with someone else",
+        "Your whole day is completely ruined",
+        "You're no longer best friends"
+      ],
+      "type": "ranked"
+    },
+    {
+      "prompt": "When you go to a social activity where you know only a few people, can you talk to people easily and are you generally at ease?",
+      "answers": [
+        "Always",
+        "Often",
+        "Sometimes",
+        "Never"
+      ],
+      "type": "ranked"
+    },
+    {
+      "prompt": "Generally speaking, would you consider yourself to be a neat person?",
+      "answers": [
+        "Yes",
+        "Sometimes",
+        "No"
+      ],
+      "type": "ranked"
+    },
+    {
+      "prompt": "Are you usually calm in a crisis?",
+      "answers": [
+        "Yes",
+        "Sometimes",
+        "No"
+      ],
+      "type": "ranked"
+    },
+    {
+      "prompt": "Can you take criticism without becoming angry?",
+      "answers": [
+        "Yes",
+        "Sometimes",
+        "No"
+      ],
+      "type": "ranked"
+    },
+    {
+      "prompt": "Do you consider yourself a quiet person?",
+      "answers": [
+        "Yes",
+        "Somewhat",
+        "No"
+      ],
+      "type": "ranked"
+    },
+    {
+      "prompt": "Do you worry about succeeding in your life?",
+      "answers": [
+        "Often",
+        "Sometimes",
+        "Never"
+      ],
+      "type": "ranked"
+    },
+    {
+      "prompt": "Do weather conditions affect your mood?",
+      "answers": [
+        "Yes, often",
+        "Yes, sometimes",
+        "No"
+      ],
+      "type": "ranked"
+    },
+    {
+      "prompt": "For the most part, do you consider yourself:",
+      "answers": [
+        "A live wire, full of fun and high spirits",
+        "Calm, cool, collected, and in control",
+        "Quiet, sensitive, and mysterious"
+      ],
+      "type": "distinct"
+    },
+    {
+      "prompt": "When you walk down the street, do you smile at people?",
+      "answers": [
+        "Yes, at everyone",
+        "Yes, often",
+        "No, you hardly look at people on the street"
+      ],
+      "type": "ranked"
+    },
+    {
+      "prompt": "Making a scene in public is:",
+      "answers": [
+        "Unnecessary, often inexcusable",
+        "Sometimes justifiable",
+        "A perfect normal expression of unhappiness"
+      ],
+      "type": "ranked"
+    },
+    {
+      "prompt": "Who do you think are the happiest people?",
+      "answers": [
+        "Those with a great deal of money",
+        "Those who give much to others",
+        "Those who have had many successes in life",
+        "Those in good company (friends, family)"
+      ],
+      "type": "distinct"
+    },
+    {
+      "prompt": "If you had a chance to have your fortune told for free, would you:",
+      "answers": [
+        "Decline, you think it is nonsense",
+        "Accept, but not take it seriously",
+        "Accept, and heed the fortune teller's words"
+      ],
+      "type": "distinct"
+    },
+    {
+      "prompt": "Do you believe in the existence of UFOs?",
+      "answers": [
+        "Yes",
+        "No",
+        "Not sure"
+      ],
+      "type": "distinct"
+    },
+    {
+      "prompt": "Which is most important in a friendship?",
+      "answers": [
+        "Loyalty",
+        "Honesty",
+        "Generosity",
+        "Understanding",
+        "Dependability"
+      ],
+      "type": "distinct"
+    },
+    {
+      "prompt": "Is giving to charities important to you?",
+      "answers": [
+        "Yes, very important",
+        "Sometimes a good idea",
+        "Not important"
+      ],
+      "type": "ranked"
+    },
+    {
+      "prompt": "You think $$$ is:",
+      "answers": [
+        "Most important",
+        "Useful, but not of great importance when compared to other things",
+        "Not important"
+      ],
+      "type": "ranked"
+    },
+    {
+      "prompt": "Do you believe \"absence makes the heart grow fonder\"?",
+      "answers": [
+        "Yes",
+        "Sometimes",
+        "No"
+      ],
+      "type": "ranked"
+    },
+    {
+      "prompt": "In terms of secrets, what do you believe?",
+      "answers": [
+        "People who are really close should keep no secrets from each other",
+        "Sometimes it's okay to keep secrets from people you're close to",
+        "No matter how close, it's foolish to tell all your secrets"
+      ],
+      "type": "ranked"
+    },
+    {
+      "prompt": "Have you successfully broken at least one bad habit?",
+      "answers": [
+        "Yes",
+        "Not Sure",
+        "No"
+      ],
+      "type": "ranked"
+    },
+    {
+      "prompt": "Are you usually on time for things?",
+      "answers": [
+        "Always",
+        "Often",
+        "Rarely",
+        "Never"
+      ],
+      "type": "ranked"
+    },
+    {
+      "prompt": "Do you make it a habit to finish things that you start?",
+      "answers": [
+        "Yes, generally",
+        "Sometimes",
+        "No, you rarely ever finish things"
+      ],
+      "type": "ranked"
+    },
+    {
+      "prompt": "If you were not in a hurry in a store but you saw a person in line behind you who was, would you: ",
+      "answers": [
+        "Let that person go ahead of you",
+        "Not sure",
+        "Hold your place and say nothing"
+      ],
+      "type": "distinct"
+    },
+    {
+      "prompt": "Are you happy when you are alone?",
+      "answers": [
+        "Yes, most of the time",
+        "Yes, sometimes",
+        "No, never"
+      ],
+      "type": "ranked"
+    },
+    {
+      "prompt": "Do you have money saved for emergencies?",
+      "answers": [
+        "Yes",
+        "Not sure",
+        "No"
+      ],
+      "type": "distinct"
+    },
+    {
+      "prompt": "Your room is:",
+      "answers": [
+        "Neat and organized",
+        "Slightly messy",
+        "Extremely messy"
+      ],
+      "type": "ranked"
+    },
+    {
+      "prompt": "After school, you are generally:",
+      "answers": [
+        "Very busy",
+        "Occupied with some responsibilities, but have free time too",
+        "Taking it easy, it's nap time"
+      ],
+      "type": "ranked"
+    },
+    {
+      "prompt": "How often do you exercise?",
+      "answers": [
+        "Daily",
+        "At least once a week",
+        "Rarely"
+      ],
+      "type": "ranked"
+    },
+    {
+      "prompt": "Money should be:",
+      "answers": [
+        "Spent on the necessities of life and saved",
+        "Spent on the necessities of life and occasionally on material items",
+        "Spent on fun, have a good time and enjoy life!"
+      ],
+      "type": "ranked"
+    },
+    {
+      "prompt": "Do you store and look back on old pictures, letters, and souvenirs?",
+      "answers": [
+        "Yes, often",
+        "Yes, sometimes",
+        "Never"
+      ],
+      "type": "ranked"
+    },
+    {
+      "prompt": "Do you sing and/or play a musical instrument well?",
+      "answers": [
+        "Yes, often",
+        "Yes, occasionally",
+        "No"
+      ],
+      "type": "ranked"
+    },
+    {
+      "prompt": "Do you enjoy clubs and/or sports?",
+      "answers": [
+        "Yes, often",
+        "Sometimes",
+        "No"
+      ],
+      "type": "ranked"
+    },
+    {
+      "prompt": "Running is:",
+      "answers": [
+        "Excellent discipline for mind and body",
+        "Tolerable once in a while",
+        "Appropriate only for others",
+        "Too much pain"
+      ],
+      "type": "distinct"
+    },
+    {
+      "prompt": "When you go to a sports event, do you:",
+      "answers": [
+        "Yell, scream, and cheer",
+        "Sit quietly and watch",
+        "Talk to friends and forget the game"
+      ],
+      "type": "distinct"
+    },
+    {
+      "prompt": "Before you go to a dance or social function, do you check with others to find out what they are wearing?",
+      "answers": [
+        "Often",
+        "Sometimes",
+        "Never"
+      ],
+      "type": "ranked"
+    },
+    {
+      "prompt": "Do you prefer brand name products?",
+      "answers": [
+        "Yes, always",
+        "Yes, but for certain items",
+        "No, advertising does not influence me"
+      ],
+      "type": "ranked"
+    },
+    {
+      "prompt": "Would you take the blame for a guilty loved one?",
+      "answers": [
+        "Yes, you'd strongly consider it",
+        "No, you would not accept blame fasely",
+        "Not sure"
+      ],
+      "type": "distinct"
+    },
+    {
+      "prompt": "Do you like when your friends tell you about all of their personal problems?",
+      "answers": [
+        "Yes",
+        "No",
+        "Not sure"
+      ],
+      "type": "distinct"
+    },
+    {
+      "prompt": "Are you willing to welcome the ideas of others, even if they differ from your own?",
+      "answers": [
+        "Yes, often",
+        "Yes, on occasion",
+        "No"
+      ],
+      "type": "ranked"
+    },
+    {
+      "prompt": "If you disliked a person, you would:",
+      "answers": [
+        "Force yourself to find things to like about them",
+        "Be generally polite as a courtesy",
+        "Avoid or ignore them",
+        "Make your dislike painstakingly clear through words & actions"
+      ],
+      "type": "ranked"
+    },
+    {
+      "prompt": "A good friend borrows things, but often forgets to return them:",
+      "answers": [
+        "Let them have it",
+        "Gently remind them to give your things back",
+        "Outright look for a new friend"
+      ],
+      "type": "ranked"
+    },
+    {
+      "prompt": "Do you laugh at jokes when you don't understand them?",
+      "answers": [
+        "Yes, often",
+        "Yes, sometimes",
+        "Yes, but rarely",
+        "Never"
+      ],
+      "type": "ranked"
+    },
+    {
+      "prompt": "Can you laugh at yourself when you make unimportant mistakes?",
+      "answers": [
+        "Yes, often",
+        "Yes, sometimes",
+        "No, never"
+      ],
+      "type": "ranked"
+    },
+    {
+      "prompt": "If you had the opportunity to study abroad for one year, would you do it?",
+      "answers": [
+        "Yes, you'd jump at the opportunity",
+        "Perhaps",
+        "No, never"
+      ],
+      "type": "ranked"
+    },
+    {
+      "prompt": "Where would you prefer to live?",
+      "answers": [
+        "In a big city",
+        "In a suburb",
+        "In the middle of nowhere"
+      ],
+      "type": "distinct"
+    },
+    {
+      "prompt": "During class you usually:",
+      "answers": [
+        "Take notes & listen",
+        "Watch the clock",
+        "Play Chromebook games",
+        "Daydream or sleep"
+      ],
+      "type": "distinct"
+    },
+    {
+      "prompt": "What do you think is the most fun in school?",
+      "answers": [
+        "Participating in clubs, band, choir, or sports",
+        "Watching sporting events, plays, or concerts",
+        "Spending time with friends in class or during lunch",
+        "Going home!"
+      ],
+      "type": "distinct"
+    },
+    {
+      "prompt": "How much emphasis do you put on school?",
+      "answers": [
+        "It's very important to me",
+        "It's kind of important to me",
+        "It's not at all important to me"
+      ],
+      "type": "ranked"
+    },
+    {
+      "prompt": "Do you prefer to take classes that are mostly:",
+      "answers": [
+        "A challenge",
+        "Just an easy grade",
+        "You'd prefer not to take any classes at all"
+      ],
+      "type": "ranked"
+    },
+    {
+      "prompt": "Are there times when you prefer to be by yourself?",
+      "answers": [
+        "Often",
+        "Sometimes",
+        "Rarely"
+      ],
+      "type": "ranked"
+    },
+    {
+      "prompt": "When you feel you have made a mistake, you most often:",
+      "answers": [
+        "Admit to it",
+        "Become embarrassed",
+        "Make excuses",
+        "Blame it on others"
+      ],
+      "type": "distinct"
+    },
+    {
+      "prompt": "Do you regularly compliment others?",
+      "answers": [
+        "Yes",
+        "Somewhat",
+        "No"
+      ],
+      "type": "ranked"
+    },
+    {
+      "prompt": "When you make a mistake, can you laugh at yourself?",
+      "answers": [
+        "Yes",
+        "Sometimes",
+        "No"
+      ],
+      "type": "ranked"
+    },
+    {
+      "prompt": "Do you make time in your daily life for relaxation?",
+      "answers": [
+        "Yes",
+        "Sometimes",
+        "No"
+      ],
+      "type": "ranked"
+    },
+    {
+      "prompt": "Do you see things that need to be done and do them without being told or reminded?",
+      "answers": [
+        "Often",
+        "Sometimes",
+        "Never"
+      ],
+      "type": "ranked"
+    },
+    {
+      "prompt": "Would it bother you to give a speech or presentation in front of a small group? ",
+      "answers": [
+        "Yes, a lot",
+        "Yes, somewhat",
+        "No, but it'd be inconvenient",
+        "No, you'd enjoy it"
+      ],
+      "type": "ranked"
+    },
+    {
+      "prompt": "How do you like expressing yourself best?",
+      "answers": [
+        "Painting, sculpting, acting, or music",
+        "Writing, speaking",
+        "Sports",
+        "Hair, makeup, clothes, etc."
+      ],
+      "type": "distinct"
+    },
+    {
+      "prompt": "Saturday is generally a day to:",
+      "answers": [
+        "Relax and have fun",
+        "Make money",
+        "Get caught up with responsibilities"
+      ],
+      "type": "distinct"
+    },
+    {
+      "prompt": "How do you have the most fun?",
+      "answers": [
+        "With a large group",
+        "With a few friends",
+        "Alone"
+      ],
+      "type": "ranked"
+    },
+    {
+      "prompt": "Your athletic ability is:",
+      "answers": [
+        "Above average",
+        "Average",
+        "Below average"
+      ],
+      "type": "ranked"
+    },
+    {
+      "prompt": "You would most like to vacation:",
+      "answers": [
+        "To the beach or a park",
+        "To a major city",
+        "To a foreign country"
+      ],
+      "type": "distinct"
+    }
+  ]
+}
