@@ -327,7 +327,8 @@
       "answers": [
         "Daily",
         "At least once a week",
-        "Rarely"
+        "Rarely",
+        "Never"
       ],
       "type": "ranked"
     },
@@ -382,7 +383,8 @@
       "answers": [
         "Yell, scream, and cheer",
         "Sit quietly and watch",
-        "Talk to friends and forget the game"
+        "Talk to friends and forget the game",
+        "You've never gone to a sports event"
       ],
       "type": "distinct"
     },
@@ -408,7 +410,7 @@
       "prompt": "Would you take the blame for a guilty loved one?",
       "answers": [
         "Yes, you'd strongly consider it",
-        "No, you would not accept blame fasely",
+        "No, you would never accept blame falsely",
         "Not sure"
       ],
       "type": "distinct"
@@ -427,7 +429,7 @@
       "answers": [
         "Yes, often",
         "Yes, on occasion",
-        "No"
+        "Never"
       ],
       "type": "ranked"
     },

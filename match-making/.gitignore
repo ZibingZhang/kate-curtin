@@ -1,1 +1,2 @@
-data.tsv
+*.tsv
+*output.tex
